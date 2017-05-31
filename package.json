@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/aveloso4/bsVisitorsService/issues"
   },
-  "homepage": "https://github.com/aveloso4/bsVisitorsService#readme"
+  "homepage": "https://github.com/aveloso4/bsVisitorsService#readme",
+  "dependencies": {
+    "mssql": "^4.0.4"
+  }
 }
