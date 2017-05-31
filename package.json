@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/aveloso4/bsVisitorsService#readme",
   "dependencies": {
+    "lodash": "^4.17.4",
     "mssql": "^4.0.4"
   }
 }

@@ -1,0 +1,18 @@
+{
+    "biostarAPI": {
+        "host": "localhost",
+        "port": "8795",
+        "version": "v2",
+        "protocol": "http",
+        "serverName": "testservername",
+        "userId": "interface",
+        "password": "Interface1!"
+    },
+    "dbConfig": {
+        "server": "",
+        "database": "Visitors",
+        "user": "",
+        "password": ""
+    },
+    "prefix": "V_"
+}
