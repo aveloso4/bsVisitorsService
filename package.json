@@ -1,0 +1,19 @@
+{
+  "name": "bsvisitorsservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aveloso4/bsVisitorsService.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aveloso4/bsVisitorsService/issues"
+  },
+  "homepage": "https://github.com/aveloso4/bsVisitorsService#readme"
+}
